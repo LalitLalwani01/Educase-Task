@@ -1,3 +1,4 @@
+import React from "react";
 import {
   Avatar,
   Badge,
@@ -8,7 +9,6 @@ import {
   Typography,
 } from "@mui/material";
 import PhotoCameraIcon from "@mui/icons-material/PhotoCamera";
-import React from "react";
 
 const Profile = () => {
   let candidateName = "Marry Doe";
